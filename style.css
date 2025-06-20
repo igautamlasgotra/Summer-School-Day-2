@@ -1,0 +1,23 @@
+h1, h2{
+    font-weight: 600;
+}
+#profile-pic{
+    width: 300px;
+    height: 300px;
+}
+.bio {
+    text-align: justify;
+    color: blueviolet
+}
+ul, p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.contact{
+    color: burlywood;
+}
+a[href]{
+    color: blue;   
+}
+.profile-card{
+    border: 2px solid red;
+}
